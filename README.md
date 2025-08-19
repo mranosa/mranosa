@@ -1,10 +1,11 @@
-# Mark Kenneth Ranosa 🚀
+# Mark Kenneth Ranosa 🚀 - Open to work
 
 **I ship features that help close deals and make teams faster.**  
 
 🌏 Makati, PH (remote-proven)  
 🧰 JS/TS · Java · Python · (Polyglot - willing and can learn easily)  
-💼 Formative (acquired 2023), PearlPay, BEN, InnoVint, Black Marlin Data
+💼 Formative (acquired 2023), PearlPay, BEN, InnoVint, Black Marlin Data  
+🤔 [Status - August 2025] Currently learning Context Engineering
 
 ---
 
